@@ -1,0 +1,6 @@
+{
+  "name": "مكتب القمر للحاسبات - Al-Qamar Computers",
+  "description": "متجر مكتب القمر للحاسبات في بغداد، شارع الصناعة. لبيع قطع حاسوب الجيمنج، اللابتوبات، الملحقات، وبناء التجميعات الاحترافية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
